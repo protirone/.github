@@ -8,7 +8,7 @@
 
 
 <!-- LTeX:Language=de-DE -->
-Download-Repository [protico.lessons](https://github.com/pro-tirone-computatri/protico.lessons) | Quellen-Repository [protico.ltx](https://github.com/pro-tirone-computatri/protico.ltx) 
+Download-Repository [protirone.lessons](https://github.com/protirone/protirone.lessons) | Quellen-Repository [protico.ltx](https://github.com/protirone/protico.ltx) 
 
 ---
 
