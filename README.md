@@ -16,4 +16,4 @@ Special Organization Repository for the project
 
 # proTironeComputatri
 
-using the link **`https://github.com/pro-tirone-computatri/.github`**
+using the link **`https://github.com/protirone/.github`**
