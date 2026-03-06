@@ -1,7 +1,7 @@
 
 <!--
-% This file is part of the Open Source project 'proTironeComputatri'
-% (c) 2025 Karsten Reincke (https://github.com/pro-tirone-computatri)
+% This file is part of the Open Source project 'proTirone'
+% (c) 2025 Karsten Reincke (https://github.com/protirone)
 % It is distributed under the terms of the Creative Commons license
 % CC-BY-4.0 (= https://creativecommons.org/licenses/by/4.0/)
 -->
@@ -49,13 +49,13 @@ Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-
  `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 
 * `protico.lessons` stellt fertige Unterrichtseinheiten zum Download bereit, geordnet nach den Lernfeldern und Curriculum.
-* `protico.ltx` enthält LaTeX/Markdown-basierte Quellen für Unterrichtseinheiten samt build-System.
+* `protico.ltx` enthält LaTeX/Markdown-basierte Quellen für Unterrichtseinheiten samt Build-System.
 * `protico.mso` soll einmal Microsoft-Office-Dokumente für Unterrichtseinheiten offerieren
-* `protico.mdd` enthält die selbstrefrentiellen Quellen für ein Markdown-Demo-System.
+* `protico.mdd` enthält die selbstreferentiellen Quellen für ein Markdown-Demo-System.
 
 ### (4) Hintergrund
 
-In Deutschland gibt es neben dem Studium der Informatik die Ausbildung zur Fachinformatikerin.[^1] Ersteres schließt mit dem Bachelor oder Master ab, letztere mit dem Gesellenbrief. Denn die Ausbildung zur Fachinformatikerin ist Teil des deutschen dualen Ausbildungssystems: die 'Azubis' - die *Tirones* - werden im Betrieb und in der Berufsschule ausgebildet. Und für die Ausbildung in der Berufsschule braucht es - neben Lehrerinnen und einem Rahmenlehrplan - ein Curriculum und entsprechende Lehrmaterialien.
+In Deutschland gibt es neben dem Studium der Informatik die Ausbildung zur Fachinformatikerin.[^1] Ersteres schließt mit dem Bachelor oder Master ab, Letztere mit dem Gesellenbrief. Denn die Ausbildung zur Fachinformatikerin ist Teil des deutschen dualen Ausbildungssystems: Die 'Azubis' - die *Tirones* - werden im Betrieb und in der Berufsschule ausgebildet. Und für die Ausbildung in der Berufsschule braucht es - neben Lehrerinnen und einem Rahmenlehrplan - ein Curriculum und entsprechende Lehrmaterialien.
 
 Wäre es nicht schön, wenn die zukünftigen Informatikerinnen gleich anhand von Open-Source-(Software) basierten Dokumenten ausgebildet würden?
 
