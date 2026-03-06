@@ -8,7 +8,7 @@
 
 
 <!-- LTeX:Language=de-DE -->
-* Download-Repository: [protirone.lessons](https://github.com/protirone/protirone.lessons) | Quellen-Repository '*Fachinformatik': [protico.ltx](https://github.com/protirone/protico.ltx) 
+* Download-Repository: [protirone.lessons](https://github.com/protirone/protirone.lessons) | Quellen-Repository *Fachinformatik*: [protico.ltx](https://github.com/protirone/protico.ltx) 
 
 ---
 
