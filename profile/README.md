@@ -24,7 +24,7 @@
 
 Wir möchten Lehrerinnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten. Wir wollen den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten. Und wir wünschen uns, dass jede Nutzerin unsere Ergebnisse im Sinne freier Software und Dokumente gebührenfrei und ohne urheberrechtliche Bedenken verwenden kann.
 
-Deshalb bieten Ihnen die *proTironeComputatri*-Repositories **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] in Form von Dokumenten und Skripten, 
+Deshalb bieten Ihnen die *proTirone*-Repositories **_freie_ Lehr- und Lernmaterialien für die Ausbildung zur Fachinformatikerin**[^1] in Form von Dokumenten und Skripten, 
 
 * die die Vorgaben des Rahmenlehrplans und der Prüfungskataloge erfüllen,
 * die sich an die Aufteilung der Lernfelder halten,
@@ -37,16 +37,16 @@ Wir wissen, dass so ein Ziel nur kooperativ zu erreichen ist. In kleinen Schritt
 Seien Sie als Kontributorin herzlich willkommen! Wir freuen uns auf jeden Pullrequest!!
 
 <p align="center">
-  <a href="https://github.com/pro-tirone-computatri"><img src="../logo.png" height="80"></a>
+  <a href="https://github.com/protirone"><img src="../logo.png" height="80"></a>
 </p>
 
 ### (2) [Lizenz](../LICENSING.md) 
 
-Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](../logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/pro-tirone-computatri) und seine Repositories visuell zu markieren bzw. anzuteasern.
+Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](../logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/protirone) und seine Repositories visuell zu markieren bzw. anzuteasern.
 
 ### (3) Struktur
 
- `proTironeComputatri` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
+ `proTirone` ist als GitHub-Organisation aufgesetzt und enthält folgende Repositories:
 
 * `protico.lessons` stellt fertige Unterrichtseinheiten zum Download bereit, geordnet nach den Lernfeldern und Curriculum.
 * `protico.ltx` enthält LaTeX/Markdown-basierte Quellen für Unterrichtseinheiten samt Build-System.
